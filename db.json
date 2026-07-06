@@ -214,7 +214,7 @@
     "products": [
       {
         "id": "1",
-        "img": "./Images/energy/دمنوش-مخلطو-لیمو-و-به-لیمو-مهرگیاه-800x800.jpg",
+        "img": "/Images/energy/دمنوش-مخلطو-لیمو-و-به-لیمو-مهرگیاه-800x800.jpg",
         "title": "دمنوش مخلوط لیمو و به لیمو 14 عددی",
         "price": 295000,
         "category": "energy",
@@ -231,7 +231,7 @@
       },
       {
         "id": "2",
-        "img": "./Images/energy/دمنوش-مخلوط-جنسینگ-مهرگیاه-800x800.jpg",
+        "img": "/Images/energy/دمنوش-مخلوط-جنسینگ-مهرگیاه-800x800.jpg",
         "title": "دمنوش مخلوط جینسینگ 14 عددی",
         "price": 365000,
         "category": "energy",
@@ -247,7 +247,7 @@
       },
       {
         "id": "3",
-        "img": "./Images/energy/دمنوش-مخلوط-زعفرانی-مهرگیاه-1-800x800.jpg",
+        "img": "/Images/energy/دمنوش-مخلوط-زعفرانی-مهرگیاه-1-800x800.jpg",
         "title": "دمنوش مخلوط زعفرانی 14 عددی",
         "price": 660000,
         "category": "energy",
@@ -267,7 +267,7 @@
       {
         "id": "4",
         "title": "دمنوش مخلوط زنجبیل (انرژی) 14 عددی",
-        "img": "./Images/energy/دمنوش-مخلوط-زنجبیل-مهریگاه-دمنوش-انرژی-800x800.jpg",
+        "img": "/Images/energy/دمنوش-مخلوط-زنجبیل-مهریگاه-دمنوش-انرژی-800x800.jpg",
         "price": 299000,
         "category": "energy",
         "slug": "دمنوش-مخلوط-زنجبیل-انرژی-14-عددی",
@@ -280,7 +280,7 @@
       {
         "id": "5",
         "title": "دمنوش معطر مهرگیاه 14 عددی",
-        "img": "./Images/energy/دمنوش-مخلوط-معطر-مهرگیاه-800x800.jpg",
+        "img": "/Images/energy/دمنوش-مخلوط-معطر-مهرگیاه-800x800.jpg",
         "price": 310000,
         "category": "energy",
         "slug": "دمنوش-مخلوط-معطر-14-عددی",
@@ -293,7 +293,7 @@
       {
         "id": "6",
         "title": "دمنوش مخلوط نعنا 14 عددی",
-        "img": "./Images/energy/دمنوش-مخلوط-نعنا-مهرگیاه-800x800.jpg",
+        "img": "/Images/energy/دمنوش-مخلوط-نعنا-مهرگیاه-800x800.jpg",
         "price": 300000,
         "category": "energy",
         "slug": "دمنوش-مخلوط-نعنا-14-عددی",
@@ -306,7 +306,7 @@
       {
         "id": "7",
         "title": "دمنوش گیاهی چای سبز و لیمو 14 عددی",
-        "img": "./Images/energy/دمنوش-مخلطو-چای-سبز-و-لیمو-مهر-گیاه.jpg",
+        "img": "/Images/energy/دمنوش-مخلطو-چای-سبز-و-لیمو-مهر-گیاه.jpg",
         "price": 310000,
         "category": "energy",
         "slug": "دمنوش-چای-سبز-لیمو-14-عددی",
@@ -323,7 +323,7 @@
       },
       {
         "id": "8",
-        "img": "./Images/calming/دمنوش آرامش (حاوی سنبلطیب) 14عددی.jpg",
+        "img": "/Images/calming/دمنوش آرامش (حاوی سنبلطیب) 14عددی.jpg",
         "title": "دمنوش آرامش (حاوی سنبلطیب) 14عددی",
         "price": 300000,
         "category": "calming",
@@ -341,7 +341,7 @@
       },
       {
         "id": "9",
-        "img": "./Images/calming/دمنوش-مخلوط-بابونه-مهرگیاه-800x800.jpg",
+        "img": "/Images/calming/دمنوش-مخلوط-بابونه-مهرگیاه-800x800.jpg",
         "title": "دمنوش گیاهی مخلوط بابونه 14 عددی",
         "price": 295000,
         "category": "calming",
@@ -354,7 +354,7 @@
       },
       {
         "id": "10",
-        "img": "./Images/calming/دمنوش-مخلوط-گل-گاو-زبان-مهرگیاه-800x800.jpg",
+        "img": "/Images/calming/دمنوش-مخلوط-گل-گاو-زبان-مهرگیاه-800x800.jpg",
         "title": "دمنوش مخلوط گل گاوزبان 14 عددی",
         "price": 318000,
         "category": "calming",
@@ -368,7 +368,7 @@
       {
         "id": "11",
         "title": "دمنوش  مخلوط بابونه 16 عددی",
-        "img": "./Images/calming/ارامش-شبانه-دمنوش-مخلوط-بابونه-16-عددی-مهرگیاه3.jpg",
+        "img": "/Images/calming/ارامش-شبانه-دمنوش-مخلوط-بابونه-16-عددی-مهرگیاه3.jpg",
         "price": 378000,
         "category": "calming",
         "slug": "دمنوش-مخلوط-بابونه-16-عددی",
@@ -381,7 +381,7 @@
       {
         "id": "12",
         "title": "دمنوش میوه ای بِه 18 عددی",
-        "img": "./Images/fruity/دمنوش میوه ای بِه 18 عددی.jpg",
+        "img": "/Images/fruity/دمنوش میوه ای بِه 18 عددی.jpg",
         "price": 423000,
         "category": "fruity",
         "slug": "دمنوش-میوه-ای-به-18-عددی",
@@ -393,7 +393,7 @@
       },
       {
         "id": "13",
-        "img": "./Images/fruity/دمنوش میوه ای زرشک 18 عددی.jpg",
+        "img": "/Images/fruity/دمنوش میوه ای زرشک 18 عددی.jpg",
         "title": "دمنوش میوه ای زرشک 18 عددی",
         "price": 169000,
         "category": "fruity",
@@ -406,7 +406,7 @@
       },
       {
         "id": "14",
-        "img": "./Images/fruity/دمنوش-بلوبری-فروت-میکس-مهرگیاه-800x800.jpg",
+        "img": "/Images/fruity/دمنوش-بلوبری-فروت-میکس-مهرگیاه-800x800.jpg",
         "title": "دمنوش میوه ای بلوبری 18 عددی",
         "price": 618000,
         "category": "fruity",
@@ -420,7 +420,7 @@
       {
         "id": "15",
         "title": "دمنوش میوه ای سیب و دارچین 18 عددی",
-        "img": "./Images/fruity/دمنوش-میوه-ای-سیب-و-دارچین-مهرگیاه-800x800.jpg",
+        "img": "/Images/fruity/دمنوش-میوه-ای-سیب-و-دارچین-مهرگیاه-800x800.jpg",
         "price": 423000,
         "category": "fruity",
         "slug": "دمنوش-میوه-ای-سیب-و-دارچین-18-عددی",
@@ -432,7 +432,7 @@
       },
       {
         "id": "16",
-        "img": "./Images/functional/2دمنوش-مخلوط-اکیناسه-16-عددی-مهرگیاه-800x800.jpg",
+        "img": "/Images/functional/2دمنوش-مخلوط-اکیناسه-16-عددی-مهرگیاه-800x800.jpg",
         "title": "دمنوش تقویت سیستم ایمنی 16 عددی (مخلوط اکیناسه)",
         "price": 445000,
         "category": "functional",
@@ -445,7 +445,7 @@
       },
       {
         "id": "17",
-        "img": "./Images/functional/ارامش-شبانه-دمنوش-مخلوط-بابونه-16-عددی-مهرگیاه3-800x800.jpg",
+        "img": "/Images/functional/ارامش-شبانه-دمنوش-مخلوط-بابونه-16-عددی-مهرگیاه3-800x800.jpg",
         "title": "دمنوش مخلوط بابونه 16 عددی (آرامش شبانه)",
         "price": 445000,
         "category": "functional",
@@ -458,7 +458,7 @@
       },
       {
         "id": "18",
-        "img": "./Images/functional/دمنوش-آرامش-مهرگیاهدمنوش-مخلوط-گل-گاوزبان-16-عددی-33-مهرگیاه-800x800.jpg",
+        "img": "/Images/functional/دمنوش-آرامش-مهرگیاهدمنوش-مخلوط-گل-گاوزبان-16-عددی-33-مهرگیاه-800x800.jpg",
         "title": "دمنوش آرامش و ضد استرس 16 عددی (مخلوط گل گاوزبان)",
         "price": 445000,
         "category": "functional",
@@ -472,7 +472,7 @@
       {
         "id": "19",
         "title": "دمنوش انرژی 16 عددی (مخلوط زنجبیل)",
-        "img": "./Images/functional/دمنوش-انرژی-مهر-گیاه-دمنوش-مخلوط-زنجبیل-16-عددی-مهرگیاه2-800x800.jpg",
+        "img": "/Images/functional/دمنوش-انرژی-مهر-گیاه-دمنوش-مخلوط-زنجبیل-16-عددی-مهرگیاه2-800x800.jpg",
         "price": 445000,
         "category": "functional",
         "slug": "دمنوش-انرژی-مهر-گیاه-دمنوش-مخلوط-زنجبیل-16-عددی",
@@ -485,7 +485,7 @@
       {
         "id": "20",
         "title": "دمنوش خواب آرام 16 عددی (مخلوط سنبل‌الطیب)",
-        "img": "./Images/functional/دمنوش-سنبل_الطیب-16-عددی-شب-نوش-دمنوش-کمک-به-خواب-آرام-2-800x800.jpg",
+        "img": "/Images/functional/دمنوش-سنبل_الطیب-16-عددی-شب-نوش-دمنوش-کمک-به-خواب-آرام-2-800x800.jpg",
         "price": 445000,
         "category": "functional",
         "slug": "دمنوش-سنبل_الطیب-16-عددی-شب-نوش-دمنوش-کمک-به-خواب-آرام-16-عددی",
@@ -497,7 +497,7 @@
       },
       {
         "id": "21",
-        "img": "./Images/functional/دمنوش-مخلوط-آویشن-تسکین-گلو-درد-2-800x800.jpg",
+        "img": "/Images/functional/دمنوش-مخلوط-آویشن-تسکین-گلو-درد-2-800x800.jpg",
         "title": "دمنوش مراقبت تنفسی 16 عددی (مخلوط آویشن)",
         "price": 445000,
         "category": "functional",
@@ -510,7 +510,7 @@
       },
       {
         "id": "22",
-        "img": "./Images/functional/دمنوش-گوارش-و-کمک-به-هضم-مهرگیاه-2-دمنوش-مخلوط-نعنا-16-عددی-مهرگیاه-800x800.jpg",
+        "img": "/Images/functional/دمنوش-گوارش-و-کمک-به-هضم-مهرگیاه-2-دمنوش-مخلوط-نعنا-16-عددی-مهرگیاه-800x800.jpg",
         "title": "دمنوش گوارش 16 عددی (مخلوط نعنا)",
         "price": 445000,
         "category": "functional",
@@ -524,7 +524,7 @@
       {
         "id": "23",
         "title": "چای سیاه حاوی زعفران کیسه ای 20 عددی",
-        "img": "./Images/tea/چای-سیاه-زعرفانی-کیسه-ای-مهرگیاه-800x800.jpg",
+        "img": "/Images/tea/چای-سیاه-زعرفانی-کیسه-ای-مهرگیاه-800x800.jpg",
         "price": 1498000,
         "category": "tea",
         "slug": "چای-سیاه-زعفرانی-کیسه-ای-20-عددی",
@@ -536,7 +536,7 @@
       },
       {
         "id": "24",
-        "img": "./Images/accessories/Functional-PaperBox-B2B-Gift-Mockup-Transparent-BG.png",
+        "img": "/Images/accessories/Functional-PaperBox-B2B-Gift-Mockup-Transparent-BG.png",
         "title": "بسته دمنوش هدیه مهرآسا (کاربردی)",
         "price": 790000,
         "category": "accessories",
@@ -549,7 +549,7 @@
       },
       {
         "id": "25",
-        "img": "./Images/accessories/Ordinairy-PaperBox-B2B-Gift-Mockup-White-BG.png",
+        "img": "/Images/accessories/Ordinairy-PaperBox-B2B-Gift-Mockup-White-BG.png",
         "title": "بسته دمنوش هدیه مهرآسا (استاندارد)",
         "price": 890000,
         "category": "accessories",
@@ -563,7 +563,7 @@
       {
         "id": "26",
         "title": "بسته دمنوش هاردباکسی 40 عددی مدل مهرگان",
-        "img": "./Images/accessories/پک-هدیه-دمنوش-40-عددی-مهرگیاه-mehregiAH-1.jpg",
+        "img": "/Images/accessories/پک-هدیه-دمنوش-40-عددی-مهرگیاه-mehregiAH-1.jpg",
         "price": 1628000,
         "category": "accessories",
         "slug": "Mehregan",
@@ -576,7 +576,7 @@
       {
         "id": "27",
         "title": "ماگ سرامیکی دست ساز مهرگیاه مدل مهرنوش",
-        "img": "./Images/accessories/ماگ-سرامیکی-مهرگیاه-800x800.jpg",
+        "img": "/Images/accessories/ماگ-سرامیکی-مهرگیاه-800x800.jpg",
         "price": 1702800,
         "category": "accessories",
         "slug": "mehrAssa-mug",
@@ -591,45 +591,45 @@
     "shopHero": {
       "id": "1",
       "name": "فروشگاه محصولات مهرگیاه",
-      "img": "./Images/shopHeader.webp"
+      "img": "/Images/shopHeader.webp"
     },
     "categories": [
       {
         "id": "1",
         "name": "دمنوش های انرژی مهرگیاه",
         "category": "energy",
-        "img": "./Images/energy/Category-Header-Energy.jpg"
+        "img": "/Images/energy/Category-Header-Energy.jpg"
       },
       {
         "id": "2",
         "name": "دمنوش های آرامش بخش مهرگیاه",
         "category": "calming",
-        "img": "./Images/calming/Category-Header-Realaxing.jpg"
+        "img": "/Images/calming/Category-Header-Realaxing.jpg"
       },
       {
         "id": "3",
         "name": "دمنوش های میوه مهرگیاه",
         "category": "fruity",
-        "img": "./Images/fruity/Category-Header-Fruits.jpg"
+        "img": "/Images/fruity/Category-Header-Fruits.jpg"
       },
 
       {
         "id": "4",
         "name": "دمنوش های فانکشنال مهرگیاه",
         "category": "functional",
-        "img": "./Images/functional/functinal-header.webp"
+        "img": "/Images/functional/functinal-header.webp"
       },
       {
         "id": "5",
         "name": "چای مهرگیاه",
         "category": "tea",
-        "img": "./Images/tea/Category-Header-Tea.jpg"
+        "img": "/Images/tea/Category-Header-Tea.jpg"
       },
       {
-        "id": "65",
+        "id": "6",
         "name": "پک های هدیه دمنوش مهرگیاه",
         "category": "accessories",
-        "img": "./Images/accessories/accessories-header.webp"
+        "img": "/Images/accessories/accessories-header.webp"
       }
     ]
   }
