@@ -125,25 +125,25 @@
     {
       "id": "1",
       "name": "دمنوش های انرژی مهرگیاه",
-      "link": "./shop/energy",
+      "link": "/shop/energy",
       "img": "./Images/دمنوش-های-انرژی-مهرگیاه.jpeg"
     },
     {
       "id": "2",
       "name": "دمنوش های آرامش بخش مهرگیاه",
-      "link": "./shop/calming",
+      "link": "/shop/calming",
       "img": "./Images/دمنوش-های-آرامبخش-مهرگیاه.jpeg"
     },
     {
       "id": "3",
       "name": "دمنوش های میوه مهرگیاه",
-      "link": "./shop/fruity",
+      "link": "/shop/fruity",
       "img": "./Images/دمنوش-های-تناسب-مهرگیاه.jpeg"
     },
     {
       "id": "4",
       "name": "دمنوش های فانکشنال مهرگیاه",
-      "link": "./shop/functional",
+      "link": "/shop/functional",
       "img": "./Images/دمنوش-های-تقویت-سیستم-ایمنی-مهرگیاه.jpeg"
     }
   ],
