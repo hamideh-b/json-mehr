@@ -172,43 +172,6 @@
       "img": "./Images/هدایای-دمنوش-مهرگیاه-پک-دمنوش-مهرگان.jpg"
     }
   ],
-  "bottomNav": [
-    {
-      "id": "1",
-      "name": "منو",
-      "icon": "bars",
-      "type": "action"
-    },
-    {
-      "id": "2",
-      "name": "فروشگاه",
-      "link": "./shop",
-      "icon": "shop",
-      "type": "link"
-    },
-    {
-      "id": "3",
-      "name": "خانه",
-      "link": "./",
-      "icon": "home",
-      "type": "link"
-    },
-    {
-      "id": "4",
-      "name": "تماس",
-      "link": "./contact",
-      "icon": "phone",
-      "type": "tel",
-      "value": "0123456"
-    },
-    {
-      "id": "5",
-      "name": "حساب کاربری",
-      "link": "./account",
-      "icon": "user",
-      "type": "link"
-    }
-  ],
   "shop": {
     "products": [
       {
